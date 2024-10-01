@@ -1,0 +1,11 @@
+(1.1) crear un repositorio en git
+(1.2) conectarlo en el entorno de trabajo
+(1.3) crear el primer commit "al inicio del proyecto"
+(1.4) crear el segundo commit "cuando termine la vista index"
+(1.5) crear el tercer commit "cuando termine la vista galería"
+
+
+(2) crear la vista index 
+(3) segunda vista galería 
+	
+	
